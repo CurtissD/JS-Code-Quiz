@@ -3,3 +3,5 @@ This is a timed multiple choice quiz designed to question your knowldge with bas
 
 https://curtissd.github.io/JS-Code-Quiz/
 https://github.com/CurtissD/JS-Code-Quiz
+
+![JS quiz photo](https://user-images.githubusercontent.com/70828512/97097526-5e8d4780-163f-11eb-8288-affc1e389e0e.PNG)
